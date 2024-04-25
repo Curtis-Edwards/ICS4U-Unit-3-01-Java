@@ -48,7 +48,7 @@ final class Main {
     * @param args No args will be used
     */
     public static void main(String[] args) {
-        final String aString = "racecar";
+        final String aString = "Curtis";
 
         final String reversedString = reverseString(aString);
         System.out.println("The original string is: " + aString);
